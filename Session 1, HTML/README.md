@@ -1,4 +1,4 @@
-# Intro to Y2 Summer - HTML, CSS, JS & OOP Review Lab
+# Y1 Yearlong 2020-2021 - Session 1, HTML Lab
 
 ## Objective: 
 In this lab, you will practice the previous topics we have learned before during the yearlong!  
