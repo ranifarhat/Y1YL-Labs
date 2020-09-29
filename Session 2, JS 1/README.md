@@ -17,12 +17,14 @@ In this lab, you will ...
 
 
 
-## Bonus:
 
 
 ##### Great job!
 ##### Call an Instructor/TA to check your completed tasks
  
+ 
+
+
+## Bonus:
 
 <img src="https://www.c-sharpcorner.com/UploadFile/201fc1/programming-in-java-using-the-mvc-architecture/Images/mvc%20framework.jpg" width="350">
-
