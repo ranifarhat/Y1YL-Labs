@@ -1,7 +1,7 @@
-# MVC (Mini Lab)
+# Javascript I - Lab
 
 ## Objective: 
-In this lab, you will implement the MVC map, trying to *grasp* the **concept of MVC** as much as possible before moving on to **Flask**!
+In this lab, you will ...
 
 
 
@@ -15,16 +15,10 @@ In this lab, you will implement the MVC map, trying to *grasp* the **concept of 
 
 ## Instructions:
 
-1. Pair up with a partner, and draw the layout of an **MVC Map**!
-    - It can be done using your boards.  
 
-</br>  
 
-2. After drawing the **MVC Map**, add description of each box/station/map point.
-    - For example: Controller -> Controls the application, updates views...etc.  
-</br>  
+## Bonus:
 
-3. Draw the restaurant example experience using an MVC map!  
 
 ##### Great job!
 ##### Call an Instructor/TA to check your completed tasks
