@@ -1,7 +1,7 @@
 # Javascript I - Lab
 
 ## Objective: 
-In this lab, you will ...
+In this lab, you will familiarize yourself with Javascript, You will write your first JS code by using Input/Output functions, variables, numbers and strings.
 
 
 
@@ -12,8 +12,8 @@ In this lab, you will ...
 
 
 
-
 ## Instructions:
+> Before we start, make sure to create a new Repl.it and call it "JS1"!
 
 ### Part 1 : User I/O 
  - In the `<script>` tags OR your `.js` file, use `console.log` to print `"Hello, World"` to the console.
@@ -33,7 +33,7 @@ In this lab, you will ...
    1. What is the value of favFruit + birthYear + luckyNumber?
    1. What is the value of birthYear + luckyNumber + favSubject?  
     
-***Not sure what to do? Try Googling for the following terms:*** javascript string to int, javascript variables, javascript order of operations.  
+> ***Not sure what to do? Try Googling for the following terms:*** javascript string to int, javascript variables, javascript order of operations.  
 Raise your hand and get checked off by a TA or instructor. Nice work!
 
 
