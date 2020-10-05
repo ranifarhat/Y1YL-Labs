@@ -60,4 +60,4 @@ Write a two-player game of Tic-Tac-Toe in JavaScript. The game should do the fol
 - JavaScript Errors: https://www.w3schools.com/js/js_errors.asp
 
 
-<img src="https://giphy.com/gifs/YnZPEeeC7q6pQEZw1I/html5" width="350">
+<img src="https://media.giphy.com/media/26grMgCg1xZh28AF2/giphy.gif" width="350">
