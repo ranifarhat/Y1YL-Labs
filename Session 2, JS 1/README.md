@@ -17,16 +17,23 @@ In this lab, you will familiarize yourself with Javascript, You will write your 
 
 ### Part 1 : User I/O 
  - In the `<script>` tags OR your `.js` file, use `console.log` to print `"Hello, World"` to the console.
- - Open the Inspector `(Right Click > Inspect)` in your Browser and look for the Console. 
+ - If you are running your code locally (on Sublime): Open the Inspector `(Right Click > Inspect)` in your Browser and look for the Console. 
+ - If you are running your code on Repl.it: You should already have your console open.
  - Check to see if `"Hello, World"` was output to the console. If not, refresh and try again.
 
 ### Part 2 : Variables, Numbers, and Strings
- - Use prompt to ask the user for the **year they were born**. Store this value as a `Number` using `parseInt` in a variable called `birthYear`.
- - Ask the user for their **lucky number**. Store this value as a `Number` using `parseInt` in a variable called `luckyNumber`.
+ - Use `prompt` to ask the user for the **year they were born**. Store this value as a `Number` in a variable called `birthYear`.
+   - Hint: use `parseInt`.
+ - Ask the user for their **lucky number**. Store this value as a `Number` in a variable called `luckyNumber`.
+   - Hint: use `parseInt`.
  - Create **two** `String` type variables called `favFruit` and `favSubject`.
    - `favFruit` should contain your favorite fruit
    - `favSubject` should contain your favorite subject.
- - Show the user the answer to the following questions using alert():
+   - Example:
+   ```javascript
+   var favFruit = "Watermelon"
+   var favSubject = "CS!"
+ - Show the user the answer to the following questions using `alert()`:
    1. What is the remainder when birthYear is divided by luckyNumber?
    1. What is the value of birthYear + luckyNumber?
    1. What is the value of birthYear + favSubject?
@@ -49,6 +56,7 @@ Raise your hand and get checked off by a TA or instructor. Nice work!
 ## Bonus:
 Write a two-player game of Tic-Tac-Toe in JavaScript. The game should do the following:
  - Alternate turns between the two players, prompting each player to enter his or her move as an index from 1 to 9 (for the nine spots on the board).
+   - You will need to learn about loops in Javascript. Feel free to research it.
  - When prompting the user for a move, display the current state of the board in the prompt.
  - Check that the player entered a valid move: between 1-9, and only free spaces are allowed.
  - After each move, check to see if a player won, or if the game ended in a draw (neither player won).
