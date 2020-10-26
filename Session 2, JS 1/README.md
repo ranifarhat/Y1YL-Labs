@@ -54,12 +54,12 @@ Raise your hand and get checked off by a TA or instructor. Nice work!
 
 
 ## Bonus:
-1. Write a calculator application, using Javascript!
+#### 1) Write a calculator application, using Javascript!
   - It should have 4 basic calculator functions: Addition (+), Subtraction (-), Multiplication (*), Division (/).
   - Add a menu.
   - The calculator should stop when the user says so. For example: "Exit" word should stop the program.
 
-2. Write a two-player game of Tic-Tac-Toe in JavaScript. The game should do the following:
+#### 2) Write a two-player game of Tic-Tac-Toe in JavaScript. The game should do the following:
   - Alternate turns between the two players, prompting each player to enter his or her move as an index from 1 to 9 (for the nine spots on the board).
     - You will need to learn about loops in Javascript. Feel free to research it.
   - When prompting the user for a move, display the current state of the board in the prompt.
