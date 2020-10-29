@@ -12,18 +12,25 @@ The point of this project is to learn to build web applications, combining front
 Building this project will help you understand and have more of an idea of how to code the backend side (Which will make it much easier to learn during the Y2 Summer), allowing you to create a fully functional website on a more advanced level!
 
 
-## Minimum Requirements
+## Objective & Minimum Requirements
+
+Create a *dynamic* web application that provides a solution to a problem that exists in on of these four categories:
+1. Friends & Family
+2. School
+3. Community
+4. The World
+
+**Minimum Requirements:**
 - At least 1 Main Input/Output functionality.
 - HTML
 - CSS
 - Javascript
   
-- Storyboard is a must.
-- Wireframe is a must.
  
 ### Extra points for:
 - Use of Bootstrap
-
+- Storyboard
+- Wireframe
 
 
 ## Workflow:
