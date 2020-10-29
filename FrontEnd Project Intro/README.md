@@ -4,7 +4,7 @@
 
 ## SWBATs - Students will be able to
 - Understand the brainstorming and design process and decide on an idea for any future project.
-- Work in pairs of 2s, and divide responsibilities amongst themselves.
+- Work in a Team of 4, and split into pairs of 2s, and divide responsibilities amongst themselves.
 - Build web applications combining front-end programming with using Javascript as back-end.
 - Understand all of the code that is written, aiming towards better understanding in CS.
 
