@@ -1,82 +1,61 @@
-# Using Forms with Flask - Facebook Lab
+# Group Projects - Front End (HTML, JS, CSS)
 
-## Objective: 
-In this lab, you will learn about taking and processing information, given by a user via HTML forms!
+## SWBATs - Students will be able to
+- Understand the brainstorming and design process and decide on an idea for any future project.
+- Work in pairs of 2s, and divide responsibilities amongst themselves.
+- Build web applications combining front-end programming with using Javascript as back-end.
+- Understand all of the code that is written, aiming towards better understanding in CS.
 
-
-
-
-
-
-
-
-
-> Before we start, make sure to go to [This Repl.it](https://repl.it/@Loai17/Day-3-Flask-Forms-Lab), fork it/copy the code to your machine in order to set up our environment for this lab.
+## Motivation / Why Should You Care? 
+- **Ideation:** We've all been in the situation where we want to make something, but are totally overwhelmed by the blank page. The blinking cursor of nothingness. It's totally daunting. Since we're going to start working on our group projects, we're going to first tackle the brainstorming process so that we have a few potential projects that we can work on.  
+The point of this project is to learn to build web applications, combining front-end programming with using Javascript as back-end programming, but you can't build an application about nothing. You need a good idea, first!
+Building this project will help you understand and have more of an idea of how to code the backend side (Which will make it much easier to learn during the Y2 Summer), allowing you to create a fully functional website on a more advanced level!
 
 
-## Instructions:
-
-As you can see, in the [Repl.it](https://repl.it/@Loai17/Day-3-Flask-Forms-Lab) we provided above, you have a ready `main.py` (Flask app), `login.html` and `home.html` files, these will be the files you will edit this lab. Explore the project files to have a better understanding of what's going on, even try to **run** the app!  
-It should look something like this:  
-<img src="https://github.com/meet-projects/Y2-Seminar2020-Labs/blob/master/Day%202%2C%20Session%202%2C%20Flask%20Forms/facebook-login.png" width=450>
-
+## Minimum Requirements
+- At least 1 Main Input/Output functionality.
+- HTML
+- CSS
+- Javascript
   
-First things first, in the top of `main.py`, you have some variables configured. Feel free to edit them according to your own preferences. The variables looks something like this:
-```python
-username = "llo2ay"
-password = "123"
-facebook_friends=["Loai","Yonathan","Adan", "George", "Adam", "Celina"]
-```
+- Storyboard is a must.
+- Wireframe is a must.
+ 
+### Extra points for:
+- Use of Bootstrap
+
+
+
+## Workflow:
+- Problem brainstorming:
+  - On a zoom board, create four categories: Friends and family, School, Community, World.
+  - Students should write down as many ideas as possible on post-it notes for three minutes for each of the following segments:
+      - What are some problems you experience with your friends or family?
+      - What are some problems you experience at school?
+      - What are some problems you experience in your community (city)?
+      - What are some problems you want to address in the world?
+      
+  - Following each segment, start removing some of the ideas you like less than the others. 
+      - You can start circling your best 3-5 ideas and remove the rest.
+  - Finally, do the same actions until you are left with 1 idea.
   
-
-1. Editing the `login` *route* in `main.py`, and the **login form** in `login.html`. It should:
-    - Take input in the form, and process it in `login` *route*.
-    - You should check if it's a `POST` request:
-        - If it is, check for credentials. (if the username and password from `login.html` match the `username` and `password` variables)
-        - If they match, you should proceed to `home.html`.
-        - Make sure to update the `<form>` attributes (method and action) accordingly.
-    - If it's a `GET` request. you should stay on the `login.html` page to try again.
-        - Remember: `GET` is the default method.
-        
-    
-
-2. Create/Define a new *route* in `main.py` and call it `home`.
-    - You should link `home` *route* to `home.html`.
-    - Make sure to replace `render_template('home.html')` with `redirect(url_for('home'))` in the `login` *route*.
-    - **Checkpoint!** Test out your website, make sure it works properly.
-    - If your app doesn't work properly when you click on **"Login"**, try opening a new tab and trying your app there:
-    <img src="https://github.com/meet-projects/Y2-Seminar2020-Labs/blob/master/Day%202%2C%20Session%202%2C%20Flask%20Forms/replete-opentab.png" width=400>
-        
-
-3. Using `facebook_friends` list, **pass it** to `home.html` using the `home` function/route in `main.py`.
-    - Replace the current "friends" in the page with a `for loop` that loops through this list.
-    - Costumize/Edit `facebook_friends` list and add your classmates/family members.
-    - Run your app. Show your friends/family members.
-
-
-##### Great job!
-##### Call an Instructor/TA to check your completed tasks
- 
-
-If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure your code is saved in **Repl.it**!
+- Solution brainstorming:
+  - Once you agree on the problem, start thinking about who your end-user will be. Who are you building this app for? How do you currently solve this problem? What are the shortcomings of current solutions?
+  - Take 3 minutes to write down as many solutions to you groups problems as possible individually.
+  - Take an additional 3 minutes to share and refine ideas.
+  - Come together, share ideas and pick your favorite solution. (An effective way can be to remove the ideas you would give up on until you are left with 1-3 ideas and agree on one of them)
+- After coming up with an idea for the project, each team should get approval by an Instructor to make sure the idea is not repeated and is valid.
+- Design wireframes and create a storyboard (~10mins).
+- Get to building the project!
 
 
 
+## Conclusion / So What?
+You're on your way to becoming a master coder! But no programmer knows everything there is to know about programming. There is **ALWAYS** more to learn. Figure out what it is about coding that you love, and dig as deep as you can into that topic to better understand it. If you love Javascript, grab a book on it or read the documentation to learn how exactly Javascript works under the hood. If you want to build up your Python skills, find a website that lets you practice with tricky algorithmic problems. The resources are boundless, so keep on learning!
 
 
-
-## Bonus Problems: 
-1. When you **login**, is the username case sensitive? If not, fix these issues so your app could work properly.
-
-2. Add a dictionary of usernames and passwords, accounts that are allowed to log in to your Facebook app.
- 
-3. Add a link to each "friend" in `home.html` (`facebook_friends` list), that when clicked, it should Google the name. 
-  - In other words, if you click on `"Loai"`, it should take you to the results google page when searching for "Loai".
- 
-4. If you have extra time, complete yesterday's (or any other) lab(s) if you haven't yet!
-
-##### Great job on completing the bonus problems section!  
-###### Make sure your code is saved in Repl.it
-
+## Hints and Hurdles
+- Don't spend too much time deciding over an idea, it should be had in the first session, as you don't have all the time in the world for this project.
+  - Focus on how to create your minimum viable product (meaning: your project but without any additional features), and then you can start adding the extra stuff.
+- Don't hesitate to approach your CS team for help, guidance, feedback, ANYTHING!
 
