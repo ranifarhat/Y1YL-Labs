@@ -46,25 +46,25 @@ In this part you will create a game called **Nim**:
 We will build this game with 2 players: **player_a** & **player_b**.
 
 **Follow the following steps:**
-	1. Print the game instructions to the players
-	2. Add the following variables to your code:
-	```python
-	end_game = False
-	total_sticks = 7
-	winner = ""
-	```
-	3. Create a `while loop` which will keep running while `end_game` is `False` and **stops** when `end_game` is `True`.
-	4. In the `while loop` take the number of sticks that **player_A** wants to pick.
-		- *Remember: it should be 1 or 2 or 3.*
-		- **Hint**: use `player_a_sticks = int(input("Enter a number: "))`
-	5. Next, **subtract** `player_a_sticks` from the `total_sticks` and **save** the answer back in `total_sticks`.
-	6. Check if the `total_stick` is equal to **zero** using conditionals.
-		- If the `total_stick` is equal to zero then do `winner= "player_b"` and `end_game = True`.
-		- If not, print the `total_stick` left on the table, and take a number of sticks from `player_b` using python inputs.
-		- Then, **subtract** the number of sticks that `player_b` picked from the `total_sticks`.
-		- If the `total_sticks` is equal to **zero**, do `winner=player_a` and `end_game=true` 
-		- If not, print the number of `total_sticks` left and **keep looping** until the game ends.
-	7. When the game ends - outside of the loop **print the winner** (Player a/b). 
+1. Print the game instructions to the players
+2. Add the following variables to your code:
+```python
+end_game = False
+total_sticks = 7
+winner = ""
+```
+3. Create a `while loop` which will keep running while `end_game` is `False` and **stops** when `end_game` is `True`.
+4. In the `while loop` take the number of sticks that **player_A** wants to pick.
+	- *Remember: it should be 1 or 2 or 3.*
+	- **Hint**: use `player_a_sticks = int(input("Enter a number: "))`
+5. Next, **subtract** `player_a_sticks` from the `total_sticks` and **save** the answer back in `total_sticks`.
+6. Check if the `total_stick` is equal to **zero** using conditionals.
+	- If the `total_stick` is equal to zero then do `winner= "player_b"` and `end_game = True`.
+	- If not, print the `total_stick` left on the table, and take a number of sticks from `player_b` using python inputs.
+	- Then, **subtract** the number of sticks that `player_b` picked from the `total_sticks`.
+	- If the `total_sticks` is equal to **zero**, do `winner=player_a` and `end_game=true` 
+	- If not, print the number of `total_sticks` left and **keep looping** until the game ends.
+7. When the game ends - outside of the loop **print the winner** (Player a/b). 
 
     
 **Good luck & Do your best!  
