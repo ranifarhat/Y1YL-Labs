@@ -71,9 +71,9 @@ Most Youth are facing a problem with money management and control, therefore the
 Your parents are super proud of you that you reached this part of the lab! So they want to deposit money to your bank account as a gift :)  
 In order to do this you should:
 3. Add a new class called `AdultAccount` which will:
-Inherit from the YouthAccount class
-Have a method called deposit_to_my_child where your parents can deposit a specific amount of money to your own youth bank account.
-Hint: take the YouthAccount object as an input to this method.
+	- Inherit from the `YouthAccount` class.
+	- Have a method called `deposit_to_my_child` where your parents can deposit a **specific** amount of money to your own *youth bank account*.
+	- *Hint:* take the `YouthAccount` object as an input to this method.
 
 
 
