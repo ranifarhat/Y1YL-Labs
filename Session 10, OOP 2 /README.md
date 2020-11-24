@@ -36,19 +36,19 @@ Since All of you are under the age of 18, we are going to create a `YouthAccount
 1. Create a new class called `YouthAccount`
 	- Enable the class to **inherit** from the `BankAccount` class that you created in Part 1.
 
-Most Youth are facing a problem with money management and control, therefore the youth account has **2 limitations**: 
-	- You can’t withdraw from your bank balance more than the `withdraw_limit` amount at once (for example: if the `withdraw_limit` is 500 shekels - you can’t withdraw more that 500 shekels at once)
-	- You should always keep a `minimum_balance` in your bank account which is predetermined (already assigned) when you create your `YouthAccount` object.  
+Most Youth are facing a problem with money management and control, therefore the youth account has **2 limitations**:   
+- You can’t withdraw from your bank balance more than the `withdraw_limit` amount at once (for example: if the `withdraw_limit` is 500 shekels - you can’t withdraw more that 500 shekels at once). 
+- You should always keep a `minimum_balance` in your bank account which is predetermined (already assigned) when you create your `YouthAccount` object.  
 
-**In order to implement these limitations add the following method:**
+**In order to implement these limitations add the following method -**  
 2. Inside the `YouthAccount` class, add a method called `withdraw` which:
-	- Takes an `amount` of money as an input.
-	- Checks if this `amount` is less than or equal to the `withdraw_limit`.
-	- If the `amount` is **more** than the `withdraw_limit`, print a message to the user. For example `“You can't withdraw more than 500 shekels at once”` and keep the account balance the same.
-	- If the `amount` is **less** than or **equal** to the `withdraw_limit`:
-		- You need to check what happens if you withdraw this money? How much money will be left in your account?
-		- If after withdrawing, your account balance will be **less** than the `minimum_balance`, then don’t withdraw from the account and print a message to the user. for example: `“sorry you can’t withdraw this amount from your bank account since your balance will be less than the [minimum_balance]”`
-		- If after withdrawing, your account balance will be **more** than the `minimum_balance`, then update the balance accordingly and return the new balance.
+- Takes an `amount` of money as an input.
+- Checks if this `amount` is less than or equal to the `withdraw_limit`.
+- If the `amount` is **more** than the `withdraw_limit`, print a message to the user. For example `“You can't withdraw more than 500 shekels at once”` and keep the account balance the same.
+- If the `amount` is **less** than or **equal** to the `withdraw_limit`:
+	- You need to check what happens if you withdraw this money? How much money will be left in your account?
+	- If after withdrawing, your account balance will be **less** than the `minimum_balance`, then don’t withdraw from the account and print a message to the user. for example: `“sorry you can’t withdraw this amount from your bank account since your balance will be less than the [minimum_balance]”`
+	- If after withdrawing, your account balance will be **more** than the `minimum_balance`, then update the balance accordingly and return the new balance.
 
 3. Add another method called `my_balance` which will print your account balance.
 4. Create an **object** and check if all of your methods work properly.
@@ -87,4 +87,4 @@ In order to do this you should:
 
 
 
-<img src="https://lh3.googleusercontent.com/proxy/jkEQuwgP94kCAnv4fXFZcDK6UIcFm5I5aXzrgtCqufOpjXgGITnpQK5Nkc8HO5a-ufGMZwXDodd7v9uzbc_ru4a15AumtSHVhgAi46Jm0SXc8LCdcXEVLLWcI_CCIkFr-aGR" width="350">
+<img src="https://s3.amazonaws.com/files.consumerfinance.gov/f/201503_cfpb_youth-savings.png" width="350">
