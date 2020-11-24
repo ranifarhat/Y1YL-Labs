@@ -67,4 +67,4 @@ According to Wikipedia: In **number theory**, a **perfect** number is a positive
 
 
 
-<img src="https://images.code.org/8fd5d9ad1d773ea2f5fde2c0a5d0f49c-image-1586313341107.gif" width="350">
+<img src="https://i.stack.imgur.com/D3ypD.gif" width="350">
