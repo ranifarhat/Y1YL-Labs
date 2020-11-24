@@ -54,7 +54,7 @@ class Animal():
 
 
 #### Finished early and down for an extra challenge?
-### [Click here for Bonus Section!](/Session%209,%20OOP%201/Bonus.mds)
+### [Click here for Bonus Section!](/Session%209,%20OOP%201/Bonus.md)
 
 
 
