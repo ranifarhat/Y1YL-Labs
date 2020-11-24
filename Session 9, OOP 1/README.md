@@ -53,8 +53,8 @@ class Animal():
 **Good Job! Remember to show your amazing work to your Instructors and TAs.**
 
 
-## Finished early and down for an extra challenge?
-## [Click here for Bonus Section!](/Bonus.mds)
+#### Finished early and down for an extra challenge?
+### [Click here for Bonus Section!](/Session%209,%20OOP%201/Bonus.mds)
 
 
 
