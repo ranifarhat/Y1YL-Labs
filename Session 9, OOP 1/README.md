@@ -53,17 +53,8 @@ class Animal():
 **Good Job! Remember to show your amazing work to your Instructors and TAs.**
 
 
-
-## [Bonus Section](/Bonus.mds)
-
-
-
-
-##### Great job!
-##### Call an Instructor/TA to check your completed tasks
- 
- 
-
+## Finished early and down for an extra challenge?
+## [Click here for Bonus Section!](/Bonus.mds)
 
 
 
