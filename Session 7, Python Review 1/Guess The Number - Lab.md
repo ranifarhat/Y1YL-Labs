@@ -32,15 +32,15 @@ In this part you will create a game called **Guess The Number**:
 
 1. In `main.py`, **Print** the game **instructions** to the player.
 2. Create a variable called **random_num** which will be equal to the secret number that the player needs to guess.
-3. Use the **random number generator** to set a **random value** to the variable **random_num**. (**Hint:** check out this [link](https://www.tutorialspoint.com/generating-random-number-list-in-python)
+3. Use the **random number generator** to set a **random value** to the variable **random_num**. (**Hint:** check out this [link](https://www.tutorialspoint.com/generating-random-number-list-in-python))
 
 ***Good Job you finished Part 1! Before moving to Part 2 make sure to run your code to check that everything works properly!***
 
 ## **Step 2**: 
 ### Take the player Guesses!
 1. Ask the user to make a guess in the terminal using python **input**  
-**Reminder**: ```python <b>
-x= input(“Guess the number:”)</b>```
+**Reminder**: ```python
+x= input(“Guess the number:”)```
 2. Save this value inside another variable called **player_guess**.
 3. And now how do we handle the player input ? Let’s move to part 3 to figure it out!
 
@@ -67,7 +67,7 @@ x= input(“Guess the number:”)</b>```
 2. Print the **game storage** as a **dictionary** by assigning:
   - **Key** - the number of the guess
   - **Value** - the value of the guess
-**For example**: if the user guessed 2 times, the first guess was 13 and the second one was 44, your dictionary should look like this: <b>```python game_storage={1:13,2:44} ```</b>
+**For example**: if the user guessed 2 times, the first guess was 13 and the second one was 44, your dictionary should look like this: ```python game_storage={1:13,2:44} ```
 3. **Add another player** to the game and the player who guesses the number first wins.
 4. Get Creative and **design** your terminal using **colorama** :D Use the following [link](https://pypi.org/project/colorama/) to install colorama and see different examples, you can ...
   - Print text in different colors in the terminal.
