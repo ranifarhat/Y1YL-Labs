@@ -67,7 +67,7 @@ x= input(“Guess the number:”)```
 2. Print the **game storage** as a **dictionary** by assigning:
   - **Key** - the number of the guess
   - **Value** - the value of the guess
-**For example**: if the user guessed 2 times, the first guess was 13 and the second one was 44, your dictionary should look like this: ```python game_storage={1:13,2:44} ```
+**For example**: if the user guessed 2 times, the first guess was 13 and the second one was 44, your dictionary should look like this: <b>```python game_storage={1:13,2:44} ```</b>
 3. **Add another player** to the game and the player who guesses the number first wins.
 4. Get Creative and **design** your terminal using **colorama** :D Use the following [link](https://pypi.org/project/colorama/) to install colorama and see different examples, you can ...
   - Print text in different colors in the terminal.
