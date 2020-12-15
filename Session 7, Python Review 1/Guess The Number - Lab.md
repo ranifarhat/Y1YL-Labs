@@ -39,8 +39,8 @@ In this part you will create a game called **Guess The Number**:
 ## **Step 2**: 
 ### Take the player Guesses!
 1. Ask the user to make a guess in the terminal using python **input**  
-**Reminder**: ```python 
-x= input(“Guess the number:”)```
+**Reminder**: ```python <b>
+x= input(“Guess the number:”)</b>```
 2. Save this value inside another variable called **player_guess**.
 3. And now how do we handle the player input ? Let’s move to part 3 to figure it out!
 
