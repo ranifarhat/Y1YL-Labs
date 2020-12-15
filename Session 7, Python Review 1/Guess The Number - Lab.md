@@ -25,7 +25,7 @@ In this part you will create a game called **Guess The Number**:
 
 **In order to build this game, follow the following steps:**
 
-## **Step 1**: Assigning a Random Number!
+## **Step 1**: ###Assigning a Random Number!
 
 > Before we start, make sure to create a new Repl.it and call it "Guess The Number Mini Project"!
 
@@ -35,13 +35,13 @@ In this part you will create a game called **Guess The Number**:
 
 ***Good Job you finished Part 1! Before moving to Part 2 make sure to run your code to check that everything works properly!***
 
-## **Step 2**: Take the player Guesses!
+## **Step 2**: ###Take the player Guesses!
 1. Ask the user to make a guess in the terminal using python **input**  
 **Reminder**: `input(“Guess the number:”)` 
 2. Save this value inside another variable called **player_guess**.
 3. And now how do we handle the player input ? Let’s move to part 3 to figure it out!
 
-## **Step 3**: Handle the user input!
+## **Step 3**: ###Handle the user input!
 1. Check if the **player_guess** is equal to the **random_num** using **if statement**:
   - If the two numbers are **equal** then print the following message to the player: “Congratulations you won! The secret number is …”
   - If the player_guess is **greater** than the random_num print the following message to the player: “Too high”
@@ -50,7 +50,7 @@ In this part you will create a game called **Guess The Number**:
 
 ***Amazing job! You finished Step 3! Don’t forget to run your code and try to play your awesome game with one of your TAs or Instructors!***
 
-## **Step 4**:Let’s Make our game more FUN!
+## **Step 4**: ###Let’s Make our game more FUN!
 1. Probably the Player found the game too easy or too hard so let’s make the player choose the **difficulty level**!
   - Before starting the game, Ask the player to choose a difficulty level between: Hard, Medium, & Easy.
   - According to the difficulty level that the user chose, change the **range** of the random_num(**e.g** if the user chose Easy then make the random_num range from 0 to 10 but if he chose medium make it from 0 to 20 and so on…)
@@ -62,7 +62,7 @@ In this part you will create a game called **Guess The Number**:
 2. Print the **game storage** as a **dictionary** by assigning:
   - **Key** - the number of the guess
   - **Value** - the value of the guess
-**For example**: if the user guessed 2 times, the first guess was 13 and the second one was 44, your dictionary should look like this: `game_storage={1:13,2:44}`
+**For example**: if the user guessed 2 times, the first guess was 13 and the second one was 44, your dictionary should look like this: '''game_storage={1:13,2:44}'''
 3. **Add another player** to the game and the player who guesses the number first wins.
 4. Get Creative and **design** your terminal using **colorama** :D Use the following link to install colorama and see different examples, you can ...
 **link:** https://pypi.org/project/colorama/
@@ -72,4 +72,4 @@ In this part you will create a game called **Guess The Number**:
 
 **Good luck & Do your best!  
 Remember to show your brilliant work to your partners and instructors so we can learn from each other.**   
-![](https://www.dogwonder.co.uk/wp-content/uploads/2009/12/tumblr_ku2pvuJkJG1qz9qooo1_r1_400.gifg)
+![](https://www.dogwonder.co.uk/wp-content/uploads/2009/12/tumblr_ku2pvuJkJG1qz9qooo1_r1_400.gif)
