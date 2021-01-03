@@ -37,7 +37,7 @@ encoder_caesar = {'a':'d','b':'e','c':'f','d':'g','e':'h','f':'i','g':'j','h':'k
 ```
 
 1. Add this dictionary to your code.
-2. Write a **function** that takes a `string` as an `input` and returns the same string but shifted by 3 letters - according to the Ceasar cipher. 
+2. Write a **function** that takes a `string` as a parameter and returns the same string but shifted by 3 letters - according to the Ceasar cipher. 
   - Use the encoder_caesar dictionary.
   - Example: `"meet"` - should be returned as `"phhw"`.
   - *Hint:* check how to print the value of a specific key in a python dictionary.
