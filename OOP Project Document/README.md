@@ -18,6 +18,7 @@ Your objective is to create a **backend** version of your 1st semester projects,
 
 
 **Minimum Requirements:**
+- Your application should be an MVP of your Frontend 1st semester group project! 
 - Have at least **2 classes** built using **OOP**. 
   - *If you don't have such repetitive item/feature: **think of how to implement a new class/feature that serves the purpose**.
   - It can be: `users` class to log in,  or any item that is repeated and used frequently in your website!
