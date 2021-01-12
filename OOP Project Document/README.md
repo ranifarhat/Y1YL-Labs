@@ -20,13 +20,13 @@ Your objective is to create a **backend** version of your 1st semester projects,
 **Minimum Requirements:**
 - Your application should be an MVP of your Frontend 1st semester group project! 
 - Have at least **2 classes** built using **OOP**. 
-  - *If you don't have such repetitive item/feature: **think of how to implement a new class/feature that serves the purpose**.
-  - It can be: `users` class to log in,  or any item that is repeated and used frequently in your website!
-  - Keep in mind also its functions/methods - for example: a `user` is able to `login`,`change password`,`change name`...etc. All of these will be the `functions/methods` of your `class`.
+    - *If you don't have such repetitive item/feature: **think of how to implement a new class/feature that serves the purpose**.
+    - It can be: `users` class to log in,  or any item that is repeated and used frequently in your website!
+    - Keep in mind also its functions/methods - for example: a `user` is able to `login`,`change password`,`change name`...etc. All of these will be the `functions/methods` of your `class`.
 - Have a `while` loop - that keeps your application running until instructed by the user to stop/exit.
 - Have `instructions` print every time you start your application.
- - Include a brief explanation of what is the purpose of your application, and what are the controls to use it/ how is it used.
- - The instructions can also include a introduction, something like: "Welcome to [name of the website]"... and then show the instructions.
+    - Include a brief explanation of what is the purpose of your application, and what are the controls to use it/ how is it used.
+    - The instructions can also include a introduction, something like: "Welcome to [name of the website]"... and then show the instructions.
  
 
  
