@@ -27,6 +27,8 @@ Your objective is to create a **backend** version of your 1st semester projects,
 - Have `instructions` print every time you start your application.
     - Include a brief explanation of what is the purpose of your application, and what are the controls to use it/ how is it used.
     - The instructions can also include a introduction, something like: "Welcome to [name of the website]"... and then show the instructions.
+- Have at least **1 feature** that makes your project unique!
+    - Since you'll have 3-4 other projects that are similar created by your team members from the 1st semester project.
  
 
  
@@ -46,6 +48,7 @@ Your objective is to create a **backend** version of your 1st semester projects,
 2. Write down the storyboard of how you want your application to act - 
     - What is the first thing a user sees when running your program?
     - How can you navigate between your "screens" and control your program?
+        - For example: think about how the user would indicate to "show the instructions" or "show the about us section", and any other commands that are relevant...etc.
     - Keep in mind the user experience.
     
 #### Implementation:
