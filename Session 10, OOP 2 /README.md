@@ -18,13 +18,14 @@ During this lab you will be creating a bank and add your own bank account using 
 ### Part 1:
 1. Create a class called `BankAccount` 
 	- Add 2 attributes to the class: `pin` and `balance`.
-	- Assign the initial/beginning value of balance to 0 (zero).
-	- Add 2 other attributes to the class `minimum_balance` and `deposit_limit` (we will use them in Part 2)
+	- Receive the `pin` as a parameter to the `__init__` function and set the `pin` attribute accordingly. 
+	- Assign the initial/beginning value of balance to zero.
+	- Add 2 other attributes to the class `minimum_balance` and `deposit_limit` (we will use them in Part 2) (set them to 0)
 2. Add a method called `deposit` that:
-	- Takes a specific amount of money as an **input** and add it to the account `balance`.
+	- Takes a specific amount of money as a **parameter** and add it to the account `balance`.
 	- Return the **new balance**.
 3. Add another method called `withdraw` that:
-	- Takes a specific amount of money as an input and **subtract** it from the account balance.
+	- Takes a specific amount of money as an parameter and **subtract** it from the account balance.
 	- Return the **new balance**.
 4. Create an object and try your methods to make sure everything is working properly.
 
@@ -42,7 +43,7 @@ Most Youth are facing a problem with money management and control, therefore the
 
 **In order to implement these limitations add the following method -**  
 2. Inside the `YouthAccount` class, add a method called `withdraw` which:
-- Takes an `amount` of money as an input.
+- Takes an `amount` of money as a parameter.
 - Checks if this `amount` is less than or equal to the `withdraw_limit`.
 - If the `amount` is **more** than the `withdraw_limit`, print a message to the user. For example `“You can't withdraw more than 500 shekels at once”` and keep the account balance the same.
 - If the `amount` is **less** than or **equal** to the `withdraw_limit`:
