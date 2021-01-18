@@ -36,21 +36,17 @@ Since All of you are under the age of 18, we are going to create a `YouthAccount
 
 1. Create a new class called `YouthAccount`
 	- Enable the class to **inherit** from the `BankAccount` class that you created in Part 1.
-	- Here's an example - 
-	```python
-	class YouthAccount(BankAccount):
-	    def __init__(self):
-	        BankAccount.__init__() # This will make sure to run the __init__ function of BankAccount class.. 
-		# ...in order to make sure YouthAccount is based on it.
-	```
-
-Most Youth are facing a problem with money management and control, therefore the youth account has **2 limitations**:   
+  
+  
+  
+2. Most Youth are facing a problem with money management and control, therefore the youth account has **2 limitations**:   
 - You can’t withdraw from your bank balance more than the `withdraw_limit` amount at once (for example: if the `withdraw_limit` is 500 shekels - you can’t withdraw more that 500 shekels at once). 
 - You should always keep a `minimum_balance` in your bank account which is predetermined (already assigned) when you create your `YouthAccount` object.  
+**In order to implement these limitations add the following method -**    
+  
 
-**In order to implement these limitations add the following method -**  
-2. Inside the `YouthAccount` class, add a method called `withdraw` which:
-- Takes an `amount` of money as a parameter.
+Inside the `YouthAccount` class, add a method called `withdraw` which:
+- Takes an `amount` (of money) and `withdraw_limit` as a parameters.
 - Checks if this `amount` is less than or equal to the `withdraw_limit`.
 - If the `amount` is **more** than the `withdraw_limit`, print a message to the user. For example `“You can't withdraw more than 500 shekels at once”` and keep the account balance the same.
 - If the `amount` is **less** than or **equal** to the `withdraw_limit`:
