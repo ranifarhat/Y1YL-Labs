@@ -40,7 +40,8 @@ Since All of you are under the age of 18, we are going to create a `YouthAccount
 	```python
 	class YouthAccount(BankAccount):
 	    def __init__(self):
-	        BankAccount.__init__() # This will make sure to run the __init__ function of BankAccount class in order to make sure YouthAccount is based on it.
+	        BankAccount.__init__() # This will make sure to run the __init__ function of BankAccount class.. 
+		# ...in order to make sure YouthAccount is based on it.
 	```
 
 Most Youth are facing a problem with money management and control, therefore the youth account has **2 limitations**:   
