@@ -17,10 +17,10 @@ During this lab you will be creating a bank and add your own bank account using 
 
 ## Useful Terms:
 > Before you start, take a look at the definitions of the following terms that you will encounter during the lab:
-1.**Withdraw**: Take money from your bank account. 
-2.**Deposit**: Add money to your bank account.
-3.**Balance**: the current amount of money in your bank account. 
-4.**Pin**: A password to your bank account.
+1. **Withdraw**: Take money from your bank account. 
+2. **Deposit**: Add money to your bank account.
+3. **Balance**: the current amount of money in your bank account. 
+4. **Pin**: A password to your bank account.
 
 ### Part 1:
 1. Create a class called `BankAccount` 
