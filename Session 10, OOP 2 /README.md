@@ -81,10 +81,10 @@ Inside the `YouthAccount` class, add a method called `withdraw` which:
 
 Your parents are super proud of you that you reached this part of the lab! So they want to deposit money to your bank account as a gift :)  
 In order to do this you should:
-3. Add a new class called `AdultAccount` which will:
-	- Inherit from the `YouthAccount` class.
-	- Have a method called `deposit_to_my_child` where your parents can deposit a **specific** amount of money to your own *youth bank account*.
-	- *Hint:* take the `YouthAccount` object as a parameter to this method.
+	3. Add a new class called `AdultAccount` which will:
+		- Inherit from the `YouthAccount` class.
+		- Have a method called `deposit_to_my_child` where your parents can deposit a **specific** amount of money to your own *youth bank account*.
+		- *Hint:* take the `YouthAccount` object as a parameter to this method.
 
 
 
