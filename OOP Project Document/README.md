@@ -48,7 +48,8 @@ Your objective is to create a **backend** version of your 1st semester projects,
 2. Write down the storyboard of how you want your application to act - 
     - What is the first thing a user sees when running your program?
     - How can you navigate between your "screens" and control your program?
-        - For example: think about how the user would indicate to "show the instructions" or "show the about us section", and any other commands that are relevant...etc.
+        - For example: think about how the user would go from the first thing s/he sees when the program runs, to another section/feature in your website, navigating between different parts of your website/program.
+        - In other words, think about the commands that will control your program and what they do!
     - Keep in mind the user experience.
     
 #### Implementation:
