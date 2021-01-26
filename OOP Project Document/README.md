@@ -27,9 +27,9 @@ Your objective is to create a **backend** version of your 1st semester projects,
 - Have a `while` loop - that keeps your application running until instructed by the user to stop/exit.
 - Have `instructions` print every time you start your application.
     - Include a brief explanation of what is the purpose of your application, and what are the controls to use it/ how is it used.
-    - The instructions can also include a introduction, something like: "Welcome to [name of the website]"... and then show the instructions.
+    - The instructions can also include an introduction, something like: "Welcome to [name of the website]"... and then show the instructions.
 - Have at least **1 feature** that makes your project unique!
-    - Since you'll have 3-4 other projects that are similar created by your team members from the 1st semester project.
+    - Since you'll have 3-4 other projects that are similar, created by your previous team members from the 1st semester project.
  
 
  
