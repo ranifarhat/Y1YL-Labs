@@ -1,6 +1,7 @@
 # Backend Individual Project - Object Oriented Programming 
 
-> DEADLINE: TO BE SUBMITTED BY  - [SUBMIT HERE]()
+> DEADLINE: TO BE SUBMITTED BY DATES BELOW - [SUBMIT HERE]()  
+> Sunday Groups on 28/2, Monday Groups on 1/3, Wednesday Groups on 3/3.
 
 ## SWBATs - Students will be able to
 - Create **minimum viable products** backend program that fully supports and is based on the **Frontend project** that was done in the 1st semester.
