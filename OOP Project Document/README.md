@@ -61,7 +61,7 @@ Your objective is to create a **backend** version of your 1st semester projects,
     - Your program should keep running until the user instructs otherwise. 
     - Think about how you want your user to be able to exit. (Is it by typing "exit"? Is it by typing something else?)
     - Everytime you're done with a certain function/method/feature, you should wait for the user's input again:
-        - *Hint*: Look up `input()` or `raw_input()`.
+        - *Hint*: Look up `input()`.
 
 5. Write out the `instructions` print - it can be stored in a function for easier reusability!
     - The instructions are part of the UX, they should be very clear to the user how the application can be used.
