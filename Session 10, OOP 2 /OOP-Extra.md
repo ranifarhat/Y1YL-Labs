@@ -54,11 +54,6 @@ check my solution: https://repl.it/@mousa19meet/MicroPlainWebpages#main.py
 ## Part 2 : 
 This is going to be a practice on how to deal with a while loop that will always keep your program running and waiting for inputs from the user.
 
-we can achieve this by using `__name__ == "__main__"`, if you are interested in learning more about this check this link.
-(https://www.freecodecamp.org/news/if-name-main-python-example/#:~:text=We%20can%20use%20an%20if,name%20if%20it%20is%20imported.)
-
-In Sum, this basically tells the code to check if "main" (this file) is running and run it again. 
-However, in this practice we will not be using this approach. Instead we will be using a simple while loop with a boolean variable.
 
 * Let's put this in practice with a guessing the number game. 
 
