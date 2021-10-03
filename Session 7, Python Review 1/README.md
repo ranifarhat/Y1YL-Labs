@@ -1,4 +1,4 @@
-# Y1 Yearlong 2020/21 - Session 7, Python Review 1 Lab
+# Y1 Yearlong 2020/21 - Session 1, Python Review 1 Lab
 
 ## Objective:
 During this lab: 
@@ -25,9 +25,21 @@ During this lab:
 	- if the number is a multiple of five **AND** a multiple of three: `print("FizzBuzz")`
 	- if none of the above conditions is `true`, just print the number itself.
 
-  
+
+**Bonus Section below!**
+<br>
 ***Good Job! Remember to show your wonderful work to your Instructors and TAs.***
 
+
+[![](https://code.kx.com/q/img/fizzbuzz.png)]()
+
+    
+  
+  
+<br>
+<br>
+<br>
+<br>  
 
 
 ## Bonus:
