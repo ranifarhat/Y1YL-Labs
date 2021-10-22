@@ -1,48 +1,47 @@
 # Backend Individual Project - Object Oriented Programming 
 
-> DEADLINE: TO BE SUBMITTED BY DATES BELOW - [SUBMIT HERE](https://forms.gle/Pwp9tAkCZ8E5pxqp8)  
-> Sunday Groups on 28/2, Monday Groups on 1/3, Wednesday Groups on 3/3.
+> DEADLINE: 31st October, To be presented at HalloConf - [SUBMIT HERE](https://forms.gle/Y3SaM2fxHfo5SrmDA)  
 
 ## SWBATs - Students will be able to
-- Create **minimum viable products** backend program that fully supports and is based on the **Frontend project** that was done in the 1st semester.
-- Understand the magic of backend and how it works.
+- Create a backend program that is based on any social media website. (For example: Facebook, Instagram, Tiktok, etc.)
+- Experience with and have better understanding of what backend is and how it works.
 
 ## Motivation / Why Should You Care? 
-- You have learned **frontend** already, now it's time to do the **backend** part and understand the difference between them.
-- Usually, we as developers start off with **backend**, and then move on to the visual part; We have reversed the order like this to enhance your learning experience and make it easier for you to connect the dots. 
-- In Y2 Summer - You will learn how to combine **backend** with **frontend** and have complete pure **website applications!** (With databases!)
-
+- In CS, there is **backend**, and there is **frontend**. Everything you have learned so far is **backend**, and now it's time to implement the latest addition (OOP) in order to have a better understanding of application structures. 
+- Usually, developers/programmers start off with **backend**, and then move on to the visual part. We will do just that! You will learn about **frontend** in the coming sessions of the yearlong.
+- **Backend** programming is what makes all programs, websites or applications work! It is the basically the engine. It is critical to understand it first before we move on.  
 
 ## Objective & Minimum Requirements
-Your objective is to create a **backend** version of your 1st semester projects, using **Object Oriented Programming (OOP)** and **pure python**.
-* Your application should run in the terminal.
+Your objective is to create a **backend** program that is based on any social media website, using **Object Oriented Programming (OOP)** and **python**.
+* Your application should run in the terminal. (The terminal is the black window with white text)
 
-
-**Minimum Requirements:**
-- Your application should be an MVP of your Frontend 1st semester group project! 
-- Have at least **2 classes** built using **OOP**. 
-    - *If you don't have such repetitive item/feature: **think of how to implement a new class/feature that serves the purpose**.
-    - It can be: `users` class to log in,  or any item that is repeated and used frequently in your website!
-    - Keep in mind also its functions/methods - for example: a `user` is able to `login`,`change password`,`change name`...etc. All of these will be the `functions/methods` of your `class`.
+  
+  
+### Minimum Requirements:
+- Your application should have at least **2 classes** built using **OOP**. 
+    - It can be: `users` class to log in, `posts` class,  or any item that is repeated and used frequently in your website!
+    - Keep in mind of what functions/methods you want to include in your project - for example: a `user` is able to `login`,`change password`,`change name`...etc. Another example is a `post` that has `number of likes` or `comments` - All of these will be the `functions/methods` of your `class`.
 - Have a `while` loop - that keeps your application running until instructed by the user to stop/exit.
 - Have `instructions` print every time you start your application.
-    - Include a brief explanation of what is the purpose of your application, and what are the controls to use it/ how is it used.
+    - Include a brief explanation of what is the purpose of your application, and what are the `commands`/`keywords` to use it. (How is it used?)
     - The instructions can also include an introduction, something like: "Welcome to [name of the website]"... and then show the instructions.
-- Have at least **1 feature** that makes your project unique!
-    - Since you'll have 3-4 other projects that are similar, created by your previous team members from the 1st semester project.
+
  
 
  
 ### Extra points for:
-- **Creative design!** You're creating an application in the terminal, which might make it not so fun to see/use... add your own design whether it is using [Turtle Library](https://docs.python.org/3/library/turtle.html), [Colorama](https://pypi.org/project/colorama/) or other visual python libraries.
-- A super clear **user experience!** The **MVP Backend** version of your project should be easy to use and navigate, and very clear to the user.
+- **Creative design!** You're creating an application in the terminal, which might make it not so fun to see/use... add your own design whether it is using [Turtle Library](https://docs.python.org/3/library/turtle.html), [Colorama](https://pypi.org/project/colorama/) or any other visual python libraries.
+- A super clear **user experience!** The **Backend program** should be easy to use and navigate, and very clear to the user.
+- Have at least **1 feature** that makes your project unique!
+    - Since you will all work on a the "back-end of a social media website", there might be similar projects. Think of how you can set your project apart!
 
-
+  
+  
 ## Workflow:
 
 #### Planning:
-1. Pull up your Front-end group project from the 1st semester - 
-    - Try to identify (and write down) as many potential **classes** as possible for your MVP.
+1. Choose the social media platform you will build using OOP - 
+    - Try to identify (and write down) as many potential **classes** as possible for your program.
     - After coming up with a list of potential classes, decide on **at least** 2 main classes, that your application depends on. (Or are very major parts of your application's idea)
     - Now think about (and write down) the attributes (the values) that each class will have, as well as the functions/methods they do!
 
@@ -67,11 +66,7 @@ Your objective is to create a **backend** version of your 1st semester projects,
     - The instructions are part of the UX, they should be very clear to the user how the application can be used.
     
 
-
-## Conclusion / So What?
-- You are currently creating your very first **MVP Back-end** project!
-- You can bring in your frontend project from the 1st semester, and by comparing both - understand what it means to have an **MVP**, and how much progress you can get to from an MVP to a fully developed idea! 
-- You are on your way to build a lot of amazing web applications in the Y2 Summer! (Including **databases**; They are based on OOP)
+> DEADLINE: 31st October, To be presented at HalloConf - [SUBMIT HERE](https://forms.gle/Y3SaM2fxHfo5SrmDA)  
 
 ## Hints and Hurdles
 - If you get stuck on coming up with potential classes, let us know and we'll help in the brainstorm!
