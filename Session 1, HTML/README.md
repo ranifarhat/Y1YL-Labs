@@ -1,4 +1,4 @@
-# Y1 Yearlong 2020/21 - Session 1, HTML Lab
+# Y1 Yearlong 2021/22 - Session 5, HTML Lab
 
 ## Objective:
 During this lab, you will be creating a small **Online Shop**!  
