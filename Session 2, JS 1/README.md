@@ -1,7 +1,7 @@
 # Javascript I - Lab
 
 ## Objective: 
-In this lab, you will familiarize yourself with Javascript, You will write your first JS code by using Input/Output functions, variables, numbers and strings.
+In this lab, you will familiarize yourself with Javascript, JS for short, You will write your first JS code by using Input/Output functions, variables, numbers and strings... as well as start grasping the idea of using DOM in JS and having more control over your HTML pages!
 
 
 
@@ -13,19 +13,17 @@ In this lab, you will familiarize yourself with Javascript, You will write your 
 
 
 ## Instructions:
-> Before we start, make sure to create a new Repl.it and call it "JS1"!
+> Before we start, make sure to create a new file and call it "js1", it can be in any code editor of your choice.
 
 ### Part 1 : User I/O 
- - In the `<script>` tags OR your `.js` file, use `console.log` to print `"Hello, World"` to the console.
- - If you are running your code locally (on Sublime): Open the Inspector `(Right Click > Inspect)` in your Browser and look for the Console. 
+ - In the `<script>` tags OR your `.js` file, use `console.log` to print `"I love CS!"` to the console.
+ - If you are running your code locally (on Sublime or any other editor): Open the Inspector `(Right Click > Inspect)` in your Browser and look for the Console. 
  - If you are running your code on Repl.it: You should already have your console open.
  - Check to see if `"Hello, World"` was output to the console. If not, refresh and try again.
 
 ### Part 2 : Variables, Numbers, and Strings
  - Use `prompt` to ask the user for the **year they were born**. Store this value as a `Number` in a variable called `birthYear`.
-   - Hint: use `parseInt`.
  - Ask the user for their **lucky number**. Store this value as a `Number` in a variable called `luckyNumber`.
-   - Hint: use `parseInt`.
  - Create **two** `String` type variables called `favFruit` and `favSubject`.
    - `favFruit` should contain your favorite fruit
    - `favSubject` should contain your favorite subject.
@@ -34,14 +32,27 @@ In this lab, you will familiarize yourself with Javascript, You will write your 
    var favFruit = "Watermelon"
    var favSubject = "CS!"
  - Show the user the answer to the following questions using `alert()`:
-   1. What is the remainder when birthYear is divided by luckyNumber?
+   1. What is the value when birthYear is divided by luckyNumber?
    1. What is the value of birthYear + luckyNumber?
-   1. What is the value of birthYear + favSubject?
-   1. What is the value of favFruit + birthYear + luckyNumber?
-   1. What is the value of birthYear + luckyNumber + favSubject?  
+   1. What is the value of favFruit + birthYear + luckyNumber + favSubject?
     
 > ***Not sure what to do? Try Googling for the following terms:*** javascript string to int, javascript variables, javascript order of operations.  
-Raise your hand and get checked off by a TA or instructor. Nice work!
+
+
+
+### Part 3 : Document Object Model
+Also known as the DOM.
+
+- Add an `<h1>` tag in your HTML page, and set its `id` attribute to anything you want.
+ -  Example: `<h1 id="title1">Welcome to my page</h1>`
+- In your Javascript, add a function that changes the `innerHTML` (which is the text) of the `<h1>` you added in the step 1.
+ - Tip: google how to create funcitons in Javascript!
+ - For example: your line would be `document.getElementById("title1").innerHTML = "I control the page now!;`
+- Add a `<button>` tag in your HTML page, and set its `onclick` attribute to the function you created in step 2.
+ - For example: if your function's name is `changeText`, it would be `<button onclick="changeText()">Next</button>`
+- In the same function you created in step 2, add a line that changes the background color to any color you want!
+ - Tip: google how to change the body background color in DOM Javascript.
+
 
 
 
@@ -49,8 +60,7 @@ Raise your hand and get checked off by a TA or instructor. Nice work!
 
 ##### Great job!
 ##### Call an Instructor/TA to check your completed tasks
- 
- 
+<img src="https://www.w3schools.com/js/pic_htmltree.gif" width="400"> 
 
 
 ## Bonus:
