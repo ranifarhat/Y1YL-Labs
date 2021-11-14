@@ -21,6 +21,8 @@ In this lab, you will familiarize yourself with Javascript, JS for short, You wi
  - If you are running your code on Repl.it: You should already have your console open.
  - Check to see if `"Hello, World"` was output to the console. If not, refresh and try again.
 
+^ **The console** is where you also can look out for information related to your JS, warnings, errors, requests and more... but we will not be dealing with all of this right now.
+
 ### Part 2 : Variables, Numbers, and Strings
  - Use `prompt()` to ask the user for the **year they were born**. Store this value as a `Number` in a variable called `birthYear`.
  - Ask the user for their **lucky number**. Store this value as a `Number` in a variable called `luckyNumber`.
