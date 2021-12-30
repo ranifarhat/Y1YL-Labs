@@ -62,7 +62,7 @@ The must-haves for the calculator are:
 #### Above & Beyond Bonus:
 Using Javascript, make the calculator work!
 
-## Code for calculator.html:
+## Code for  `calculator.html`:
 ```
 <!doctype html>
 <html lang="en">
