@@ -1,7 +1,7 @@
 # Bootstrap - Lab
 
 ## Objective: 
-In this lab, you will experiment with Bootstrap's grid system, get to know how to work with it, and create ***responsive*** web applications suitable to **any device**!
+In this lab, you will experiment with Bootstrap's grid system and its' many different elements, get to know how to work with it, and create ***responsive*** web applications suitable to **any device**!
 
 
 
