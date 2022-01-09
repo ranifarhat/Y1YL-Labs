@@ -36,7 +36,7 @@ At the moment, you will not be able to see anything yet in your webpage if you f
 Now we're supposed to be done with set up, and ready to place some 3D into our HTML page!! Let's start with a basic cube:  
 - To add a cube, we need to create the `geometry`, `material` (which is the color/texture), and lastly combine them together, and add it to the scene:
 - Let's start with creating the geometry by adding this line: `var geometry = new THREE.BoxGeometry();`.
-- Next, setting the material: `var material = new THREE.MeshLambertMaterial({color:0xFFCCEE})`. - You can change the color to whatever you want using HEX Color Codes.
+- Next, setting the material: `var material = new THREE.MeshBasicMaterial({color:0xFFCCEE})`. - You can change the color to whatever you want using HEX Color Codes.
 - Let's combine them together: `var cube = new THREE.Mesh(geometry,material);`.
 - Add it to the scene: `scene.add(cube);`.
 - Last but not least, we want to tell the renderer to work! Add this line in the bottom: `renderer.render(scene, camera);`. Congratulations! You should be able to see your very first 3D cube in your scene!
