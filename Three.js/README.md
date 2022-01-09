@@ -39,7 +39,8 @@ Now we're supposed to be done with set up, and ready to place some 3D into our H
 - Next, setting the material: `var material = new THREE.MeshBasicMaterial({color:0xFFCCEE})`. - You can change the color to whatever you want using HEX Color Codes.
 - Let's combine them together: `var cube = new THREE.Mesh(geometry,material);`.
 - Add it to the scene: `scene.add(cube);`.
-- Last but not least, we want to tell the renderer to work! Add this line in the bottom: `renderer.render(scene, camera);`. Congratulations! You should be able to see your very first 3D cube in your scene!
+- Last but not least, we want to tell the renderer to work! Add this line in the bottom: `renderer.render(scene, camera);`. Congratulations! You should be able to see your very first 3D cube in your scene!  
+  - Note: In the slides you may notice the `render` line is placed in an `animate()` function - It is not necessary to have this function, unless you are planning on moving things around in your scene. (animation)
 
 
 
