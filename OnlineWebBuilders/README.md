@@ -32,7 +32,7 @@ A portfolio is a collection of materials that show cases your skills, qualificat
 
 **Good Job! Remember to show your wonderful work to your fellow students and CS team.**
 And **THANK YOU** for the wonderful yearlong you've had with us, we hope you enjoyed learning CS as much as we enjoyed teaching it to you!
-We'll have a lot of cool things waiting for you in the summer :D <br>
+<br> We'll have a lot of cool things waiting for you in the summer :D <br>
 <img src="https://www.creative-tim.com/blog/content/images/size/w960/wordpress/2019/09/website-builder.jpg" width="500">
 
     
