@@ -2,14 +2,13 @@
 
 This lab will be dedicated to your work, effort and progress in CS, all the way along the Y1 yearlong.
 After this lab, you will have your own **portfolio**, that you can use later on to showcase your work, ideas and projects. 
-<br>
+<br><br>
 A portfolio is a collection of materials that show cases your skills, qualifications, education, training and experiences. It provides insight into your personality and work ethic. 
 
 
 
 
-
-[![](https://assets.justinmind.com/wp-content/uploads/2021/07/ux-portfolio-example-casual-tone.png)]()
+<img src="https://assets.justinmind.com/wp-content/uploads/2021/07/ux-portfolio-example-casual-tone.png" width="600">
 
 
 
@@ -17,7 +16,7 @@ A portfolio is a collection of materials that show cases your skills, qualificat
 ## Instructions:
 > Before we start, decide on a online web builder tool of your choosing, and create an account there!
 
-1. Change the title to ["Your name's" Portfolio]
+1. Change the title to `"Your name's" Portfolio`
 1. Create a section to write your skills, challenges and highlights:
 	- Write your all of the skills you have and the skills you have learned at MEET so far!
 	- Write the challenges you have faced during your MEET experience, and how you got through them.
@@ -30,10 +29,10 @@ A portfolio is a collection of materials that show cases your skills, qualificat
 	
 
 <br>
-***Good Job! Remember to show your wonderful work to your fellow students and CS team.***
 
+**Good Job! Remember to show your wonderful work to your fellow students and CS team.**
 
-[![](https://www.creative-tim.com/blog/content/images/size/w960/wordpress/2019/09/website-builder.jpg)]()
+<img src="https://www.creative-tim.com/blog/content/images/size/w960/wordpress/2019/09/website-builder.jpg" width="500">
 
     
   
