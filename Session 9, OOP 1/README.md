@@ -7,7 +7,7 @@ During this lab, you will familiarize yourself with the **Object Oriented Progra
 
 
 
-<img src="https://sushankpokharel.com.np/wp-content/uploads/2019/11/object.jpg" width="400">
+<img src="https://www.roberthalf.com/sites/default/files/2018-03/Object%20oriented%20programming.jpg" width="400">
 
 
 
