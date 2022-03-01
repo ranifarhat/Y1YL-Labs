@@ -1,6 +1,6 @@
 # Backend Individual Project - Object Oriented Programming 
 
-> DEADLINE: 31st October, To be presented at HalloConf - [SUBMIT HERE](https://forms.gle/Y3SaM2fxHfo5SrmDA)  
+> DEADLINE: 31st October, To be presented at HalloConf - [SUBMIT HERE](https://forms.gle/Y3SaM2fxHfo5SrmDA)  <<< Update in YL 2022-23
 
 ## SWBATs - Students will be able to
 - Create a backend program that is based on any social media website. (For example: Facebook, Instagram, Tiktok, etc.)
@@ -9,11 +9,11 @@
 ## Motivation / Why Should You Care? 
 - In CS, there is **backend**, and there is **frontend**. Everything you have learned so far is **backend**, and now it's time to implement the latest addition (OOP) in order to have a better understanding of application structures. 
 - Usually, developers/programmers start off with **backend**, and then move on to the visual part. We will do just that! You will learn about **frontend** in the coming sessions of the yearlong.
-- **Backend** programming is what makes all programs, websites or applications work! It is the basically the engine. It is critical to understand it first before we move on.  
+- **Backend** programming is what makes all programs, websites or applications work! It is basically the engine. It is critical to understand it first before we move on.  
 
 ## Objective & Minimum Requirements
 Your objective is to create a **backend** program that is based on any social media website, using **Object Oriented Programming (OOP)** and **python**.
-* Your application should run in the terminal. (The terminal is the black window with white text)
+* Your application should run in the **terminal** OR **repl.it**. (The terminal is the black window with white text)
 
   
   
@@ -33,7 +33,7 @@ Your objective is to create a **backend** program that is based on any social me
 - **Creative design!** You're creating an application in the terminal, which might make it not so fun to see/use... add your own design whether it is using [Turtle Library](https://docs.python.org/3/library/turtle.html), [Colorama](https://pypi.org/project/colorama/) or any other visual python libraries.
 - A super clear **user experience!** The **Backend program** should be easy to use and navigate, and very clear to the user.
 - Have at least **1 feature** that makes your project unique!
-    - Since you will all work on a the "back-end of a social media website", there might be similar projects. Think of how you can set your project apart!
+    - Since you will all work on the "back-end of a social media website", there might be similar projects. Think of how you can set your project apart!
 
   
   
