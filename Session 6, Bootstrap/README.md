@@ -22,7 +22,7 @@ In this lab, you will experiment with Bootstrap's grid system and its' many diff
 
 <img src="https://github.com/meet-projects/Y1YL-Labs/blob/master/Session%206%2C%20Bootstrap/BootstrapGrid.png" width="300">
 
-### Bonus:  
+#### Bonus:  
 Open the website you made then right click and inspect element. As you notice, the image isn't compatible with the screen size and can sometimes get out of the borders of the column that includes it. Google how to fix that. (hint: you need to make the image's width compatible with its parent).
 
   
